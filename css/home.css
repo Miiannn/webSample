@@ -1,0 +1,47 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 11, 2019, 9:15:46 AM
+    Author     : Lenovo
+*/
+
+.section1 {
+	padding-top: 50px;
+	border-bottom: 3px grey dotted;
+	padding-bottom: 15px;
+}
+.img1 {
+	width: 160px;
+	float: left;
+	margin-right: 20px;
+	border-radius: 10px;
+}
+
+.section2 {
+	margin-top: 40px;
+	border-bottom: 3px grey dotted;
+}
+.cake {
+	float: left;
+	width: 344px;
+	margin-bottom: 15px;
+}
+.img2 {
+	width: 330px;
+	border-radius: 10px;
+}
+.section3 {
+	margin-top: 40px;
+	margin-bottom: 80px;
+}
+.regard{
+	border-top: 3px grey dotted;
+	padding-top: 40px;
+}
+.sign {
+	font-size: 40px;
+	font-family: serif;
+}

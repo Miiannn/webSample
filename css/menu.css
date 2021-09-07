@@ -1,0 +1,27 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 28, 2019, 4:49:27 PM
+    Author     : Lenovo
+*/
+
+.menu ul{
+	list-style: none;
+	background-color: #890400;
+	width: 100%;
+	display: table;
+	padding: 8px;
+}
+.menu ul li{
+	float: left;
+}
+.menu ul a{
+	text-decoration:none;
+	color:#fff;
+	padding:0 15px;
+	font-family: sans-serif;
+	font-size: 16px;
+}
